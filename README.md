@@ -183,7 +183,7 @@ Gómez, J. [Juan Gómez]. (2020, enero 15). *Cómo aprender APA en 10 minutos* [
 ### Herramienta para realizar mapas mentales: 
 <https://whimsical.com/>
 
-<iframe width="560" height="315" src="[https://www.youtube.com/embed/VIDEO_ID](https://youtu.be/ULPtEqVtWi8)" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/ULPtEqVtWi8" frameborder="0" allowfullscreen></iframe>
 
 ### Herramienta para generar citas: 
 <https://www.grafiati.com/es/>
