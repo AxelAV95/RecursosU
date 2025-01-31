@@ -110,6 +110,8 @@ Los encabezados organizan el contenido del trabajo. APA tiene cinco niveles de e
 3. **Nivel 3**: Alineado a la izquierda, en negrita, solo la primera letra en mayúscula.  
    Ejemplo: **Participantes**
 
+![image](https://github.com/user-attachments/assets/d79ac950-6cfc-439e-acc3-86650571d7bf)
+
 ---
 
 ### **8. Tablas y figuras**
