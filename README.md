@@ -187,14 +187,27 @@ Gómez, J. [Juan Gómez]. (2020, enero 15). *Cómo aprender APA en 10 minutos* [
 
 ### Herramienta para generar citas: 
 <https://www.grafiati.com/es/>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AKGA9OG9D6k?si=ff_01JnsVnZJyYZM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ### Herramienta para preguntar a documentos: 
 <https://www.chatpdf.com/es>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2VCW4tIo-k?si=Xl3Bp-jW4i6eWpk5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ### Herramienta para crear presentaciones automaticamente: 
 <https://gamma.app/es>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ld3UFmn6USc?si=pao_lcr0ijoVbWYK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ### Herramienta para crear infografías: 
 <https://infography.in/>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/F3Rxd8W47Nk?si=dcteja9NDJZty8Xn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ### Herramienta para crear imágenes con IA: 
 - <https://piclumen.com/app/image-generator/create>
 - <https://pixlr.com/es/image-generator/>
+  
 ### Guía de referencia para APA: 
 <https://biblioguias.ucm.es/estilo-apa-septima/introduccion>
