@@ -21,6 +21,9 @@ Un trabajo en APA se divide en las siguientes secciones:
 - **Sangría**: 0.5 pulgadas (1.27 cm) en la primera línea de cada párrafo.
 - **Alineación**: Texto alineado a la izquierda (no justificado).
 
+![image](https://github.com/user-attachments/assets/f66b74c7-0b84-473c-a2ef-0a5c79b52501)
+
+
 ---
 
 ### **3. Portada**
