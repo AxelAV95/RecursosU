@@ -136,6 +136,8 @@ Figura 1
 Mapa de la distribución de la población mundial.  
 Nota: Adaptado de "World Population Distribution", por Organización de las Naciones Unidas, 2021 (https://www.un.org/population). Copyright 2021 por ONU.
 ```
+![image](https://github.com/user-attachments/assets/430734ed-7afb-47d7-8361-bfe73aa285b4)
+
 
 #### **En la lista de referencias**:
 Agrega la fuente de donde obtuviste la imagen. El formato varía dependiendo del tipo de fuente.
@@ -154,14 +156,37 @@ Organización de las Naciones Unidas. (2021). *World population distribution* [M
 
 ---
 
+### **10. Citar videos de YouTube**
+Cuando cites un video de YouTube, sigue estos pasos:
+
+#### **En el texto**:
+(Autor o Nombre del canal, Año).
+
+#### **En la lista de referencias**:
+Apellido, A. A. [Nombre del canal]. (Año, mes día). *Título del video* [Video]. YouTube. URL
+
+#### Ejemplo:
+```
+Gómez, J. [Juan Gómez]. (2020, enero 15). *Cómo aprender APA en 10 minutos* [Video]. YouTube. https://www.youtube.com/watch?v=xxxx
+```
+
+---
+
+
 # **Herramientas útiles**
 
-### Herramienta para realizar mapas mentales: https://whimsical.com/
-### Herramienta para generar citas: https://www.grafiati.com/es/
-### Herramienta para preguntar a documentos: https://www.chatpdf.com/es
-### Herramienta para crear presentaciones automaticamente: https://gamma.app/es
-### Herramienta para crear infografías: https://infography.in/
+### Herramienta para realizar mapas mentales: 
+<https://whimsical.com/>
+### Herramienta para generar citas: 
+<https://www.grafiati.com/es/>
+### Herramienta para preguntar a documentos: 
+<https://www.chatpdf.com/es>
+### Herramienta para crear presentaciones automaticamente: 
+<https://gamma.app/es>
+### Herramienta para crear infografías: 
+<https://infography.in/>
 ### Herramienta para crear imágenes con IA: 
-- https://piclumen.com/app/image-generator/create
-- https://pixlr.com/es/image-generator/
-### Guía de referencia para APA: https://biblioguias.ucm.es/estilo-apa-septima/introduccion
+- <https://piclumen.com/app/image-generator/create>
+- <https://pixlr.com/es/image-generator/>
+### Guía de referencia para APA: 
+<https://biblioguias.ucm.es/estilo-apa-septima/introduccion>
